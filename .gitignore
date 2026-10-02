@@ -1,0 +1,23 @@
+# Arduino build artifacts
+*.hex
+*.elf
+*.bin
+build/
+*.o
+
+# Processing
+*.class
+applet/
+application.*/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
